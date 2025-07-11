@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConvertion", "TypeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{726346E2-C723-4A60-B40F-51F234B60128}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleStructure", "ControleStructure\ControleStructure.csproj", "{BCA3AD73-0F73-42BB-B6D1-6150CED7668A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{726346E2-C723-4A60-B40F-51F234B60128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726346E2-C723-4A60-B40F-51F234B60128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726346E2-C723-4A60-B40F-51F234B60128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA3AD73-0F73-42BB-B6D1-6150CED7668A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA3AD73-0F73-42BB-B6D1-6150CED7668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA3AD73-0F73-42BB-B6D1-6150CED7668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA3AD73-0F73-42BB-B6D1-6150CED7668A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

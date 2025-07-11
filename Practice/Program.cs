@@ -15,6 +15,8 @@ namespace Practice
             Console.WriteLine($"a*b is {a * b}");
             Console.WriteLine($"a/b is {a / b}");
             Console.WriteLine($"a%b is {a % b}"); // Modulus operator gives the remainder of the division
+
+
         }
     }
 }
