@@ -20,6 +20,7 @@
             string str2 = "567";
             int num2 = int.Parse(str2); // Parse string to int
             Console.WriteLine(num2); // Output: 567
+            throw new Exception();
         }
     }
 }
